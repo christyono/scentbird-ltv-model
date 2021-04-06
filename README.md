@@ -10,6 +10,8 @@ pandas
 
 category_encoders
 
+catboost
+
 sklearn.ensemble
 
 sklearn.linear_model
@@ -21,3 +23,7 @@ sklearn.model_selection
 sklearn.metrics
 
 sklearn.preprocessing
+
+
+
+*If you are having trouble opening this notebook, [click here](https://nbviewer.jupyter.org/github/christyono/scentbird-ltv-model/blob/main/scentbird_LTV_model.ipynb)*
